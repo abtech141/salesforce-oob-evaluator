@@ -10,7 +10,7 @@ strictly against Out-of-the-Box (OOB) native features.
 - Identifies the best 1–2 native options
 - Summarizes OOB gaps clearly — no custom code suggestions
 
-## Covers (Spring '26+)
+## Covers 
 Agentforce · CRM Analytics · Collaborative Forecasts · 
 Revenue Cloud · Einstein AI · Reports & Dashboards · 
 Service Cloud · Sales Cloud · Platform features
